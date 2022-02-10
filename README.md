@@ -4,11 +4,11 @@
 as a currency such as bitcoin, Eth, bnb, ada and so forth. Latter is we have a growing collective which one day soon
 we hope holders can purchase stock with our token... but then also make purchases elsewhere too
 
-- 🌱 I’m currently learning how to generate our .io website
+- 🌱 Website has been released! https://merkaba-token.io
 
 - 💞️ I’m looking to collaborate on all fronts, please don't hesitate to reach out!
 
-- 📫 How to reach me: You find me easiest to reach here on our discord https://discord.gg/wNwdMJVM
+- 📫 How to reach me: You find me easiest to reach here via email, merkabatoken@outlook.com
 
 
 <!---
